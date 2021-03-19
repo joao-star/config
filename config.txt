@@ -3,3 +3,4 @@ RobinFuud1337
 
 cd uploads
 send  C:\Windows\v2\prints.zip
+bye

